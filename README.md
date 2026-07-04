@@ -2,6 +2,8 @@
 📊 Superstore Sales Analysis Dashboard
 https://public.tableau.com/views/SuperstoreDataAnalystProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+<img width="480" height="305" alt="image" src="https://github.com/user-attachments/assets/95a3fdfd-6459-4ea9-afad-f569e2bb9b78" />
+
 📖 Tentang Proyek Ini
 
 Proyek ini adalah analisis data penjualan dari sebuah toko ritel besar (Superstore) untuk memahami performa bisnis dan memberikan rekomendasi strategis. Tujuannya adalah mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti terkait penjualan, keuntungan, dan perilaku pelanggan .
@@ -130,7 +132,6 @@ Hasil: Insight awal yang menjadi dasar untuk visualisasi dan rekomendasi.
 https://public.tableau.com/views/SuperstoreDataAnalystProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 s:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Su&#47;SuperstoreDataAnalystProject&#47;Dashboard1&#47;1.p
 
-<img width="480" height="305" alt="image" src="https://github.com/user-attachments/assets/95a3fdfd-6459-4ea9-afad-f569e2bb9b78" />
 
 
 
