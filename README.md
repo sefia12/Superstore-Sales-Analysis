@@ -8,7 +8,9 @@ https://public.tableau.com/views/SuperstoreDataAnalystProject/Dashboard1?:langua
 
 Proyek ini adalah analisis data penjualan dari sebuah toko ritel besar (Superstore) untuk memahami performa bisnis dan memberikan rekomendasi strategis. Tujuannya adalah mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti terkait penjualan, keuntungan, dan perilaku pelanggan .
 
-🗂️ Dataset: Menggunakan dataset publik Sample - Superstore yang berisi data penjualan dari tahun 2014–2017 di berbagai wilayah AS. Dataset ini mencakup informasi tentang pesanan, pelanggan, produk, dan metrik keuangan .
+🗂️ Dataset: Menggunakan dataset publik Sample - Superstore yang berisi data penjualan dari tahun 2014–2017 di berbagai wilayah AS. Dataset ini mencakup informasi tentang pesanan, pelanggan, produk, dan metrik keuangan . https://www.kaggle.com/datasets/drnimishadavis/store-sales-dataset
+
+
 🔍 Insight & Temuan Utama
 
 📊 1. Performa Penjualan per Kategori & Sub-Kategori
@@ -88,11 +90,9 @@ Home Office $429,653 $16,953
 
 📋 Langkah-Langkah Pengerjaan
 
-Proyek ini dikerjakan melalui 4[Sample - Superstore.csv](https://github.com/user-attachments/files/29661008/Sample.-.Superstore.csv)
+Proyek ini dikerjakan melalui 4  tahap utama, dari persiapan data hingga dashboard interaktif.
+[Sample - Superstore.csv](https://github.com/user-attachments/files/29661008/Sample.-.Superstore.csv)
 [Project Data Analyst Superstore.xlsx](https://github.com/user-attachments/files/29661004/Project.Data.Analyst.Superstore.xlsx)
- tahap utama, dari persiapan data hingga dashboard interaktif.
-
----
 
 🔧 TAHAP 1: EKSPLORASI & PEMBERSIHAN DATA (Excel)
 
