@@ -119,6 +119,8 @@ Home Office $429,653 $16,953
 🔎 Insight:
 
 · Consumer adalah segmen dengan penjualan tertinggi ($1.16 juta), namun **Corporate** memiliki profit lebih tinggi ($35,233) dengan volume lebih rendah. Ini menunjukkan pelanggan Corporate lebih efisien dan bernilai .
+
+
 🛠️ Tools & Teknologi
 
 · Data Preparation & Cleaning: Excel (Power Query) 
